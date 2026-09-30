@@ -1,0 +1,10 @@
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+*.avi
+*.mp4
+*.jpg
+output/
